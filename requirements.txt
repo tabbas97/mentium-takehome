@@ -85,7 +85,7 @@ torch==2.2.2
 torch-summary==1.4.5
 torchinfo==1.8.0
 torchvision==0.17.2
-tornado==6.4
+tornado==6.4.1
 tqdm==4.66.2
 traitlets==5.14.2
 triton==2.2.0
